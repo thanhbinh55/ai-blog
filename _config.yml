@@ -5,6 +5,7 @@ description: >-
 baseurl: "" # nếu không nằm trong subfolder
 url: "https://thanhbinh55.github.io"
 theme: minima
-
+markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag

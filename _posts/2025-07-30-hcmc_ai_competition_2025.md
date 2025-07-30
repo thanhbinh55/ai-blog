@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "HCMC AI Competition 2025"
