@@ -1,4 +1,11 @@
 
+---
+layout: post
+title: "HCMC AI Competition 2025"
+date: 2025-07-29 10:00:00 +0700
+categories: ai competition
+---
+
 # HCMC AI Competition: AI Challenge 2025 – Track 3
 
 ## Table of Contents
