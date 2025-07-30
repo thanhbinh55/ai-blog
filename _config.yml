@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >- 
   Blog chia sẻ kiến thức học AI
 baseurl: "" # nếu không nằm trong subfolder
-url: "https://<username>.github.io"
+url: "https://thanhbinh55.github.io"
 theme: minima
 
 plugins:
