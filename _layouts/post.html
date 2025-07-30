@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<small><i>{{ page.date | date: "%Y-%m-%d" }}</i></small>
-<div>
-  {{ content }}
-</div>
+<article>
+  <h2>{{ page.title }}</h2>
+  <p><small>🗓️ {{ page.date | date: "%d/%m/%Y" }} | ✍️ Tác giả: {{ site.data.authors[page.author].name }}</small></p>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>

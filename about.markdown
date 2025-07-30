@@ -1,18 +1,14 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: "Về tôi"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 👋 Xin chào!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mình là **{{ site.data.authors.binh.name }}**, hiện là sinh viên năm nhất ngành Công nghệ Thông tin.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Mình lập blog này để chia sẻ về quá trình học tập, các dự án AI, Machine Learning và những điều thú vị mình học được.
 
+📫 Liên hệ: {{ site.email }}
 
-[jekyll-organization]: https://github.com/jekyll
+🌐 Website: [{{ site.data.authors.binh.website }}]({{ site.data.authors.binh.website }})
